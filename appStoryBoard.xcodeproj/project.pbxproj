@@ -13,6 +13,7 @@
 		D9F3095C1F9E2E5E00926E80 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9F3095B1F9E2E5E00926E80 /* Assets.xcassets */; };
 		D9F3095F1F9E2E5E00926E80 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9F3095D1F9E2E5E00926E80 /* LaunchScreen.storyboard */; };
 		D9F3096A1F9E2E5E00926E80 /* appStoryBoardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9F309691F9E2E5E00926E80 /* appStoryBoardTests.swift */; };
+		D9F309751F9E341C00926E80 /* pointe-du-hoc-16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D9F309741F9E341B00926E80 /* pointe-du-hoc-16.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		D9F309651F9E2E5E00926E80 /* appStoryBoardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = appStoryBoardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9F309691F9E2E5E00926E80 /* appStoryBoardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = appStoryBoardTests.swift; sourceTree = "<group>"; };
 		D9F3096B1F9E2E5E00926E80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D9F309741F9E341B00926E80 /* pointe-du-hoc-16.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "pointe-du-hoc-16.jpg"; path = "../../pointe-du-hoc-16.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				D9F309541F9E2E5E00926E80 /* AppDelegate.swift */,
 				D9F309561F9E2E5E00926E80 /* ViewController.swift */,
 				D9F309581F9E2E5E00926E80 /* Main.storyboard */,
+				D9F309741F9E341B00926E80 /* pointe-du-hoc-16.jpg */,
 				D9F3095B1F9E2E5E00926E80 /* Assets.xcassets */,
 				D9F3095D1F9E2E5E00926E80 /* LaunchScreen.storyboard */,
 				D9F309601F9E2E5E00926E80 /* Info.plist */,
@@ -182,6 +185,7 @@
 				D9F3095F1F9E2E5E00926E80 /* LaunchScreen.storyboard in Resources */,
 				D9F3095C1F9E2E5E00926E80 /* Assets.xcassets in Resources */,
 				D9F3095A1F9E2E5E00926E80 /* Main.storyboard in Resources */,
+				D9F309751F9E341C00926E80 /* pointe-du-hoc-16.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
