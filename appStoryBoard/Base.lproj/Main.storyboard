@@ -20,7 +20,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="pointe-du-hoc-16.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="4yt-3H-3Ps">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="pointe-du-hoc-16" translatesAutoresizingMaskIntoConstraints="NO" id="4yt-3H-3Ps">
                                 <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -99,7 +99,6 @@
         <!--ARView-->
         <scene sceneID="LZo-uF-2LN">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="FvV-Hg-AoZ" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <viewController title="ARView" id="4o6-Uh-3Jh" customClass="ViewController" customModule="appStoryBoard" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="WIa-Az-PuH"/>
@@ -120,11 +119,12 @@
                         <outlet property="sceneView" destination="wvZ-Ej-Tle" id="GV1-Dn-9aA"/>
                     </connections>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="FvV-Hg-AoZ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-246.09375" y="-561.328125"/>
         </scene>
     </scenes>
     <resources>
-        <image name="pointe-du-hoc-16.jpg" width="514" height="529"/>
+        <image name="pointe-du-hoc-16" width="514" height="529"/>
     </resources>
 </document>

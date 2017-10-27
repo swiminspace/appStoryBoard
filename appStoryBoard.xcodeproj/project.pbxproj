@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D989706F1FA00D54006F6395 /* pointe-du-hoc-16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D989706E1FA00D53006F6395 /* pointe-du-hoc-16.jpg */; };
 		D9F309551F9E2E5E00926E80 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9F309541F9E2E5E00926E80 /* AppDelegate.swift */; };
 		D9F309571F9E2E5E00926E80 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9F309561F9E2E5E00926E80 /* ViewController.swift */; };
 		D9F3095A1F9E2E5E00926E80 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9F309581F9E2E5E00926E80 /* Main.storyboard */; };
@@ -27,7 +26,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D989706E1FA00D53006F6395 /* pointe-du-hoc-16.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "pointe-du-hoc-16.jpg"; path = "../../pointe-du-hoc-16.jpg"; sourceTree = "<group>"; };
 		D9F309511F9E2E5E00926E80 /* appStoryBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = appStoryBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9F309541F9E2E5E00926E80 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D9F309561F9E2E5E00926E80 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -82,7 +80,6 @@
 				D9F309541F9E2E5E00926E80 /* AppDelegate.swift */,
 				D9F309561F9E2E5E00926E80 /* ViewController.swift */,
 				D9F309581F9E2E5E00926E80 /* Main.storyboard */,
-				D989706E1FA00D53006F6395 /* pointe-du-hoc-16.jpg */,
 				D9F3095B1F9E2E5E00926E80 /* Assets.xcassets */,
 				D9F3095D1F9E2E5E00926E80 /* LaunchScreen.storyboard */,
 				D9F309601F9E2E5E00926E80 /* Info.plist */,
@@ -185,7 +182,6 @@
 				D9F3095F1F9E2E5E00926E80 /* LaunchScreen.storyboard in Resources */,
 				D9F3095C1F9E2E5E00926E80 /* Assets.xcassets in Resources */,
 				D9F3095A1F9E2E5E00926E80 /* Main.storyboard in Resources */,
-				D989706F1FA00D54006F6395 /* pointe-du-hoc-16.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
